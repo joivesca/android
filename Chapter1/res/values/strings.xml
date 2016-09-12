@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter1</string>
+    <string name="hello_world">Hola Mundo soy Ivan!</string>
+	<string name="txt_button">Push Me !!!</string>
+</resources>

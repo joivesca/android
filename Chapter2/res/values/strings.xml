@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    
+     
+    <string name="app_name">Chapter2</string>
+    
+    <string name="image_title">Decoring the Sky</string>
+    
+    <string name="image_date">Mon, 27 Dec 2010 00:00:00 EST</string>
+    
+    <string name="image_description">This mosaic image taken by NASA, Infrared
+        would by taken from earth, blah,blah, blah, blah\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO
+        \nSI\nNO
+        \nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO\nSI\nNO
+        \nSI\nNO\nSI\nNO.</string>
+	 <string name="action_settings">Settings</string>
+</resources>

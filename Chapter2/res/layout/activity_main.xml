@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        android:id="@+id/imageTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/image_title" />
+
+    <TextView
+        android:id="@+id/imageDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/image_date" />
+
+    <ImageView
+        android:id="@+id/imageDisplay"
+        android:layout_width="match_parent"
+        android:layout_height="258dp"
+        android:src="@drawable/orion_hubble_960"
+        />
+	
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    	
+         <TextView
+        	android:id="@+id/imageDescription"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/image_description" />
+    
+    </ScrollView>
+   
+
+</LinearLayout>
