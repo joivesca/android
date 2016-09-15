@@ -23,6 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="258dp"
         android:src="@drawable/orion_hubble_960"
+        android:adjustViewBounds="true"
         />
 	
     <ScrollView 
